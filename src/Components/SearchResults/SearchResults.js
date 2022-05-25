@@ -1,5 +1,5 @@
 import React from "react";
-import "./Searchesults.css";
+import "./SearchResults.css";
 
 export class SearchResults extends React.Component {
   render() {
@@ -11,3 +11,5 @@ export class SearchResults extends React.Component {
     );
   }
 }
+
+export default SearchResults;
